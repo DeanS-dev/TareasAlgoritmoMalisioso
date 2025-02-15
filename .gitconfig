@@ -1,3 +1,5 @@
 [user]
 	email = danielcuestav@hotmail.com
 	name = DeanS-dev
+[credential]
+	helper = wincred
