@@ -1,0 +1,26 @@
+total 2955
+-rw-r--r-- 1 sck19 sck19    140 Feb 14 10:41 a.c
+-rwxr-xr-x 1 sck19 sck19 247840 Feb 14 23:18 a.exe
+-rwxr-xr-x 1 sck19 sck19 110512 Feb 14 11:03 a.out
+-rw-r--r-- 1 sck19 sck19    141 Feb 14 23:00 adres.c
+-rwxr-xr-x 1 sck19 sck19 110302 Feb 14 23:02 adres.exe
+-rwxr-xr-x 1 sck19 sck19 110302 Feb 14 23:03 adres.out
+-rw-r--r-- 1 sck19 sck19    453 Feb 14 23:06 adres2.c
+-rwxr-xr-x 1 sck19 sck19 249044 Feb 14 23:07 adres2.out
+-rw-r--r-- 1 sck19 sck19    147 Feb 14 13:31 arra2.c
+-rwxr-xr-x 1 sck19 sck19 248496 Feb 14 13:32 arra2.exe
+-rw-r--r-- 1 sck19 sck19    340 Feb 14 12:36 array_c.c
+-rwxr-xr-x 1 sck19 sck19 248496 Feb 14 12:37 array_c.out
+-rw-r--r-- 1 sck19 sck19    565 Feb 14 23:11 fmt.c
+-rwxr-xr-x 1 sck19 sck19 247840 Feb 14 23:11 fmt.exe
+-rw-r--r-- 1 sck19 sck19    250 Feb 14 23:14 input.c
+-rwxr-xr-x 1 sck19 sck19 430648 Feb 14 23:14 input.exe
+-rw-r--r-- 1 sck19 sck19      0 Feb 14 23:37 listado_de_archivos.txt
+-rw-r--r-- 1 sck19 sck19    544 Feb 14 22:55 p.c
+-rwxr-xr-x 1 sck19 sck19 248496 Feb 14 22:56 p.exe
+-rw-r--r-- 1 sck19 sck19    669 Feb 14 23:23 ptype.c
+-rwxr-xr-x 1 sck19 sck19 247840 Feb 14 23:23 ptype.exe
+-rw-r--r-- 1 sck19 sck19    545 Feb 14 22:37 size.c
+-rwxr-xr-x 1 sck19 sck19 249044 Feb 14 22:38 size.exe
+-rw-r--r-- 1 sck19 sck19    364 Feb 14 23:18 type.c
+-rwxr-xr-x 1 sck19 sck19 247840 Feb 14 23:19 type.exe
