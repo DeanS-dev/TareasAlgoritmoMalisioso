@@ -253,3 +253,82 @@ gdb -q ./array2
 nano array2.c
 gcc -g -o array2 array2.c
 gdb -q ./array2
+vim
+su
+sudp apt vim
+sudo apt vim
+su
+clear
+apt vim
+sudo apt
+sudo -s
+sudo -S
+clear
+ls
+~/ explorer.exe .
+~/. explorer.exe .
+/. explorer.exe 
+vim
+ls
+nano simplenote.c
+nano simplenote.c
+gcc -g -o simplenote simplenote.c
+gcc  -o simplenote simplenote.c
+ls
+/. simplenote.exe 
+./simplenote.exe
+./simplenote.exe "this is a test note"
+rm simplenote.exe 
+ls
+nano simplenote.
+nano simplenote.c
+gcc  -o simplenote simplenote.c
+ls
+./simplenote.exe "this is a test note"
+cat C:\\temp\\notes
+cat /c/tmp/notes
+./simplenote.exe "Great, it works"
+cat /c/tmp/notes
+nano  bitwise.c
+ls
+gcc -g -0 bitwise bitwise.c
+gcc -g -o bitwise bitwise.c
+ls
+./bitwise.exe
+nano fcntl_flags.c
+gcc -g -o fcntl_flags fcntl_flags.c\
+gcc -g -o fcntl_flags fcntl_flags.c
+ls
+./fcntl_flags.exe
+ls
+chmod 731 simplenote.c
+ls -l simplenote.c
+chmod ugo-wx simplenote.c
+ls -l simplenote.c
+chmod u+w simplenote.c
+ls -l simplenote.c
+ls -l /c/tmp/notes
+clear
+id reader
+id sck19
+id matrix
+id root
+sudo su jose
+gdb -q ./array2
+./array2.out
+ls
+./a.exe
+gdb a.exe
+clear
+nano notetaker.c
+gcc -g -o notetaker notetaker.c
+ls
+nano hacking.h
+gcc -g -o notetaker notetaker.c
+nano notetaker.c
+gcc -g -o notetaker notetaker.c
+nano notetaker.c
+gcc -g -o notetaker notetaker.c
+sudo chown root:root ./notetaker
+runas /user:Administrador notetaker.exe
+runas /user:Administrador notetaker.exe
