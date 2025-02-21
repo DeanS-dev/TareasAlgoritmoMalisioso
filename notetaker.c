@@ -3,6 +3,7 @@
 #include <string.h>
 #include <fcntl.h>
 #include <sys/stat.h>
+<<<<<<< HEAD
 #include <unistd.h> // Para POSIX (si fuera Linux)
 #include <windows.h> // Para GetCurrentProcessId() en Windows
 #include "hacking.h"
@@ -18,6 +19,7 @@ int main(int argc, char *argv[]) {
 
     buffer = (char *)ec_malloc(100);
     datafile = (char *)ec_malloc(20);
+<<<<<<< HEAD
     strcpy(datafile, "notes.txt"); // Usar un archivo válido en Windows
 
     if (argc < 2) // Si no hay argumentos en la línea de comandos, muestra la ayuda
@@ -25,6 +27,7 @@ int main(int argc, char *argv[]) {
 
     strcpy(buffer, argv[1]); // Copia el argumento en buffer
 
+<<<<<<< HEAD
     printf("[DEBUG] buffer @ %p: '%s'\n", buffer, buffer);
     printf("[DEBUG] datafile @ %p: '%s'\n", datafile, datafile);
 
@@ -35,6 +38,7 @@ int main(int argc, char *argv[]) {
 
     printf("[DEBUG] file descriptor is %d\n", fd);
 
+<<<<<<< HEAD
     // Simular un UID en Windows usando el ID del proceso
     userid = GetCurrentProcessId();
 
@@ -47,7 +51,6 @@ int main(int argc, char *argv[]) {
         fatal("in main() while writing buffer to file");
 
     write(fd, "\n", 1);
-
     // Cierra el archivo
     if (close(fd) == -1)
         fatal("in main() while closing file");
